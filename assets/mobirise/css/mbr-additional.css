@@ -16,10 +16,10 @@ body {
 }
 .display-2 {
   font-family: 'Lato', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 3.2rem;
 }
 .display-4 {
   font-family: 'Lato', sans-serif;
@@ -54,9 +54,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.72rem;
@@ -1297,82 +1297,21 @@ section.lazy-placeholder:after {
   background: #00802b;
   color: initial;
 }
+.cid-rzMUoQcbmt .widget-text {
+  color: #232323;
+}
 .cid-rS1fGc3Z0T {
   padding-top: 225px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/lettobiancoblu-1920x1280.jpg");
+  background-image: url("../../../assets/images/1922817-2000x1328.jpg");
 }
 .cid-rS1fGc3Z0T .mbr-section-title {
   text-align: center;
+  color: #00802b;
 }
 .cid-rS1fGc3Z0T .mbr-text,
 .cid-rS1fGc3Z0T .mbr-section-btn {
   text-align: center;
-  color: #ffffff;
-}
-.cid-rzMUppQFtw {
-  padding-top: 225px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/1922817-2000x1328.jpg");
-}
-.cid-rzMUppQFtw .form-group {
-  text-align: left;
-  min-height: 0px;
-  border: 0px solid #CCC;
-  border-radius: 5px;
-}
-.cid-rzMUppQFtw .jq-selectbox li.selected {
-  background-color: #00802b;
-}
-.cid-rzMUppQFtw .jq-selectbox li:hover {
-  background-color: #00802b;
-}
-.cid-rzMUppQFtw .jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #00802b;
-}
-.cid-rzMUppQFtw .form-control {
-  padding: 0;
-}
-.cid-rzMUppQFtw .form-control[name="message"] {
-  padding: 20px 25px;
-}
-.cid-rzMUppQFtw .form-control[name="message"]:focus {
-  outline: none;
-  box-shadow: 0;
-}
-.cid-rzMUppQFtw .form-control[name="message"]:active {
-  outline: none;
-  box-shadow: 0;
-}
-.cid-rzMUppQFtw .mbr-iconfont-btn {
-  margin: 0;
-}
-.cid-rzMUppQFtw .jq-selectbox__dropdown {
-  top: 65px!important;
-}
-.cid-rzMUppQFtw .input-group-btn .btn {
-  margin: 0;
-  padding: 1.1rem 20px;
-  border-radius: 5px;
-}
-@media (max-width: 991px) {
-  .cid-rzMUppQFtw .align-left {
-    text-align: center;
-  }
-  .cid-rzMUppQFtw .form-group {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 576px) {
-  .cid-rzMUppQFtw .input-group-btn {
-    margin: auto;
-  }
-}
-.cid-rzMUppQFtw .mbr-section-title {
-  color: #00802b;
-  text-align: center;
-}
-.cid-rzMUppQFtw H4 {
   color: #00802b;
 }
 .cid-rQNm9DIICn {
@@ -1690,7 +1629,7 @@ section.lazy-placeholder:after {
 .cid-rzMUvKybQX {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/lettobiancoblu-1920x1280.jpg");
 }
 .cid-rzMUvKybQX .mbr-section-title {
   text-align: center;
@@ -1912,22 +1851,22 @@ section.lazy-placeholder:after {
   border: 0px;
 }
 .cid-rzMUxuJfwp .li1 {
-  background-image: url("../../../assets/images/01.jpg");
+  background-image: url("../../../assets/images/casale2-itreulivi-696x522.jpg");
 }
 .cid-rzMUxuJfwp .li2 {
-  background-image: url("../../../assets/images/02.jpg");
+  background-image: url("../../../assets/images/salapranzo-itreulivi-1600x1200.jpg");
 }
 .cid-rzMUxuJfwp .li3 {
-  background-image: url("../../../assets/images/03.jpg");
+  background-image: url("../../../assets/images/finestra-itreulivi-1600x1200.jpg");
 }
 .cid-rzMUxuJfwp .li4 {
-  background-image: url("../../../assets/images/01.jpg");
+  background-image: url("../../../assets/images/bagno2-itreulivi-1600x1200.jpg");
 }
 .cid-rzMUxuJfwp .li5 {
-  background-image: url("../../../assets/images/02.jpg");
+  background-image: url("../../../assets/images/camera2-itreulivi-1600x1200.jpg");
 }
 .cid-rzMUxuJfwp .li6 {
-  background-image: url("../../../assets/images/03.jpg");
+  background-image: url("../../../assets/images/camera4-itreulivi-1600x1200.jpg");
 }
 @media (max-width: 992px) {
   .cid-rzMUxuJfwp .carousel-indicators li {
@@ -2282,7 +2221,7 @@ section.lazy-placeholder:after {
 .cid-rzMVaJ2jRV .line {
   height: 3px;
   width: 60px;
-  background: #ffffff;
+  background: #f79219;
   margin: auto;
   margin-bottom: 1rem;
   margin-top: 1rem;
@@ -2385,5 +2324,9 @@ section.lazy-placeholder:after {
 }
 .cid-rzMVcsUdfO .links,
 .cid-rzMVcsUdfO .navbar-brand {
+  color: #00802b;
+}
+.cid-rzMVcsUdfO .links,
+.cid-rzMVcsUdfO .social-list {
   color: #333333;
 }
