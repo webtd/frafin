@@ -1300,6 +1300,10 @@ section.lazy-placeholder:after {
 .cid-rzMUoQcbmt .widget-text {
   color: #232323;
 }
+.cid-rzMUoQcbmt .widget-title,
+.cid-rzMUoQcbmt .widget-icon {
+  text-align: right;
+}
 .cid-rS1fGc3Z0T {
   padding-top: 195px;
   padding-bottom: 150px;
